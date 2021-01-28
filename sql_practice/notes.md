@@ -2,7 +2,7 @@
 
 Link: https://mode.com/sql-tutorial/introduction-to-sql/
 
-`**Q:**`
+**`Q`:**
 
 Write a query that only shows rows for which the month_name starts with the letter "N" or an earlier letter in the alphabet.
 
